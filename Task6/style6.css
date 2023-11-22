@@ -1,0 +1,40 @@
+.picture1{
+   width: 200px;
+   height: 200px;
+   background-image:url('img2/HTML5.png') ;
+   background-repeat: no-repeat;
+   background-size:contain;
+   margin: 30px;
+   border: 2px solid grey ;
+   border-radius: 30px;
+   display: inline-block;
+  
+  
+ 
+}
+
+body{
+    margin: 0;
+    border: 2px solid grey ;
+
+    
+}
+
+h1,h2{
+    padding-top: 200px;
+}
+
+.picture2 { 
+    width: 200px;
+    height: 200px;
+    background-image:url("img2/CSS3.png");
+    background-repeat: no-repeat;
+    background-size:contain;
+    margin: 30px;
+    border: 2px solid grey ;
+    border-radius: 30px;
+    display: inline-block;
+
+   
+
+}

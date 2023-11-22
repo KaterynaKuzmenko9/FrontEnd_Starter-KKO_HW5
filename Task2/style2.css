@@ -1,0 +1,23 @@
+.contacts{
+   list-style: none;
+
+}
+
+.number{
+   padding: 10px;
+   border-right: 2px solid gray;
+   font-size: 20px;
+   display: inline-block;
+   
+
+}
+
+
+.contacts li:first-child{
+   border-top: none;
+}
+
+
+.contacts li:last-child{
+   border-right:  none;
+}

@@ -1,0 +1,12 @@
+div{margin-top: 30px;
+    width: 200px;
+    height: 200px;
+    background-image: url(img/waterfall.png);
+    border-radius: 50%;
+    border-width: 10px;
+    border: 10px solid aqua ;
+    background-size: contain;
+
+   
+   
+}

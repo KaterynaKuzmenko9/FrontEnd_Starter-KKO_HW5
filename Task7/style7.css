@@ -1,0 +1,65 @@
+body {
+    background-image: url("img3/затемненний.png");
+    height: 600px;
+    width: 800px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    padding-left: 200px;
+    padding-top: 200px;
+    color: white;
+    
+
+}
+
+
+h1 {
+    color: white;
+    text-align: center;
+
+
+}
+
+.icons 
+  /*   border: 20px solid purple;
+   width: 800px;
+    height: 300px; */
+    
+    { 
+
+    display: flex;
+    flex-wrap:nowrap;
+    justify-content: space-around;
+    align-items: center;
+
+   
+
+
+}
+
+.icons1 {
+    background-image: url("img3/1.png");
+    height: 50px;
+    background-repeat: no-repeat;
+    padding: 30px;
+    
+}
+
+.icons2 {
+    background-image: url("img3/2.png");
+    height: 50px;
+    background-repeat: no-repeat;
+    padding: 30px;
+    
+   
+}
+
+.icons3 {
+    background-image: url("img3/3.png");
+    height: 50px;
+    background-repeat: no-repeat;
+    padding: 30px;
+    
+
+}
